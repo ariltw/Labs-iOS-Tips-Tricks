@@ -26,4 +26,4 @@ This is a tips to create a dynamic view height inside scrollview (horizontal).
 
 - Inisiate every item height in the scroll view content so the scrollview won't showing the  ambiguous height error message.
 
-<img src="https://github.com/ariltw/Labs-iOS-Tips-Tricks/blob/master/Wrap%20Content/sample_2.gif" alt="sample_2" style="zoom:25%;" />
+<img src="https://github.com/ariltw/Labs-iOS-Tips-Tricks/blob/master/Wrap%20Content/sample_2.gif" alt="sample_2"  width="250" align="center"/>
